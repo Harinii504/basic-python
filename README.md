@@ -1,2 +1,0 @@
-# basic-python
-CRT problems
